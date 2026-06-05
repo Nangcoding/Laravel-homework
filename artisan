@@ -1,0 +1,3 @@
+<?php
+// Proxy artisan to inner Laravel project so "php artisan" works from workspace root.
+require __DIR__ . '/laravel-homework/artisan';
