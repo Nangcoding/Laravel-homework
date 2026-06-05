@@ -22,3 +22,16 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+/artisan
+/composer.json
+/composer.lock
+/package.json
+/package-lock.json
+/laravel.log
+/laravel-error.log
+/laravel-debug.log
+/laravel-*.log
+/laravel-*.log.*
+/laravel-*.log.*.gz
+/laravel-*.log.*.zipl
+/laravel_migration
